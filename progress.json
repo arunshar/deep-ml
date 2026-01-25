@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T21:30:29.648Z",
+  "generated_at": "2026-11-03T21:30:31.964Z",
   "items": {
     "lab:1": {
       "kind": "lab",
@@ -13,6 +13,32 @@
       "last_pushed_at": "2026-01-23T18:47:26.627Z",
       "language": "python",
       "lines": 31
+    },
+    "lab:2": {
+      "kind": "lab",
+      "id": "2",
+      "title": "MNIST: Design-Your-Own tiny Pytorch Model",
+      "difficulty": "medium",
+      "category": "Model Architecture",
+      "url": "https://www.deep-ml.com/labs/2",
+      "path": "labs/0002-mnist-design-your-own-tiny-pytorch-model",
+      "first_solved_at": "2026-01-25T00:40:54.025Z",
+      "last_pushed_at": "2026-01-25T00:40:54.025Z",
+      "language": "python",
+      "lines": 29
+    },
+    "lab:3": {
+      "kind": "lab",
+      "id": "3",
+      "title": "MNIST: Design Your Own Pytorch Optimizer",
+      "difficulty": "medium",
+      "category": "Optimizers",
+      "url": "https://www.deep-ml.com/labs/3",
+      "path": "labs/0003-mnist-design-your-own-pytorch-optimizer",
+      "first_solved_at": "2026-01-25T01:53:01.110Z",
+      "last_pushed_at": "2026-01-25T01:53:01.110Z",
+      "language": "python",
+      "lines": 89
     }
   }
 }

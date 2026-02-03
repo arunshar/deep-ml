@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T21:30:33.809Z",
+  "generated_at": "2026-11-03T21:30:35.828Z",
   "items": {
     "lab:1": {
       "kind": "lab",
@@ -52,6 +52,32 @@
       "last_pushed_at": "2026-01-27T22:08:55.176Z",
       "language": "python",
       "lines": 63
+    },
+    "lab:13": {
+      "kind": "lab",
+      "id": "13",
+      "title": "PyTorch: Build a Complete Training Loop",
+      "difficulty": "easy",
+      "category": "PyTorch Fundamentals",
+      "url": "https://www.deep-ml.com/labs/13",
+      "path": "labs/0013-pytorch-build-a-complete-training-loop",
+      "first_solved_at": "2026-02-03T23:47:35.090Z",
+      "last_pushed_at": "2026-02-03T23:47:35.090Z",
+      "language": "python",
+      "lines": 105
+    },
+    "lab:5": {
+      "kind": "lab",
+      "id": "5",
+      "title": "MNIST: Adversarial Example Generation",
+      "difficulty": "hard",
+      "category": "Adversarial Robustness",
+      "url": "https://www.deep-ml.com/labs/5",
+      "path": "labs/0005-mnist-adversarial-example-generation",
+      "first_solved_at": "2026-02-03T23:52:58.321Z",
+      "last_pushed_at": "2026-02-03T23:52:58.321Z",
+      "language": "python",
+      "lines": 90
     }
   }
 }

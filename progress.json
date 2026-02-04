@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T21:30:35.828Z",
+  "generated_at": "2026-11-03T21:30:37.753Z",
   "items": {
     "lab:1": {
       "kind": "lab",
@@ -78,6 +78,58 @@
       "last_pushed_at": "2026-02-03T23:52:58.321Z",
       "language": "python",
       "lines": 90
+    },
+    "lab:6": {
+      "kind": "lab",
+      "id": "6",
+      "title": "MNIST: Build Neural Network from Scratch (NumPy Only)",
+      "difficulty": "hard",
+      "category": "Neural Network Fundamentals",
+      "url": "https://www.deep-ml.com/labs/6",
+      "path": "labs/0006-mnist-build-neural-network-from-scratch-numpy-only",
+      "first_solved_at": "2026-02-04T00:31:40.313Z",
+      "last_pushed_at": "2026-02-04T00:31:40.313Z",
+      "language": "python",
+      "lines": 128
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-02-04T08:17:18.633Z",
+      "last_pushed_at": "2026-02-04T08:17:18.633Z",
+      "language": "python",
+      "lines": 13
+    },
+    "lab:7": {
+      "kind": "lab",
+      "id": "7",
+      "title": "MNIST: Fix Very Deep Network Training",
+      "difficulty": "medium",
+      "category": "Network Optimization",
+      "url": "https://www.deep-ml.com/labs/7",
+      "path": "labs/0007-mnist-fix-very-deep-network-training",
+      "first_solved_at": "2026-02-04T19:32:48.113Z",
+      "last_pushed_at": "2026-02-04T19:32:48.113Z",
+      "language": "python",
+      "lines": 54
+    },
+    "lab:8": {
+      "kind": "lab",
+      "id": "8",
+      "title": "Design Your Own Optimizer (NumPy)",
+      "difficulty": "medium",
+      "category": "Optimizers",
+      "url": "https://www.deep-ml.com/labs/8",
+      "path": "labs/0008-design-your-own-optimizer-numpy",
+      "first_solved_at": "2026-02-04T20:35:41.097Z",
+      "last_pushed_at": "2026-02-04T20:35:41.097Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**14** solved · 1 problems · 13 labs · 0 math
+**15** solved · 1 problems · 14 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [MNIST: Design-Your-Own tiny Pytorch Model](https://www.deep-ml.com/labs/2) | medium | 2026-01-25 | [solution](labs/0002-mnist-design-your-own-tiny-pytorch-model) |
 | [MNIST: Fix Very Deep Network Training](https://www.deep-ml.com/labs/7) | medium | 2026-02-04 | [solution](labs/0007-mnist-fix-very-deep-network-training) |
 | [MNIST: Pytorch DataLoader](https://www.deep-ml.com/labs/1) | medium | 2026-01-23 | [solution](labs/0001-mnist-pytorch-dataloader) |
+| [Numpy: Design Your Own Dimensionality Reduction](https://www.deep-ml.com/labs/14) | medium | 2026-02-06 | [solution](labs/0014-numpy-design-your-own-dimensionality-reduction) |
 | [PyTorch: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/12) | medium | 2026-02-05 | [solution](labs/0012-pytorch-implement-your-own-gradient-descent-training-step) |
 | [MNIST: Adversarial Example Generation](https://www.deep-ml.com/labs/5) | hard | 2026-02-03 | [solution](labs/0005-mnist-adversarial-example-generation) |
 | [MNIST: Build Neural Network from Scratch (NumPy Only)](https://www.deep-ml.com/labs/6) | hard | 2026-02-04 | [solution](labs/0006-mnist-build-neural-network-from-scratch-numpy-only) |

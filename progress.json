@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T21:30:42.025Z",
+  "generated_at": "2026-11-03T21:30:43.995Z",
   "items": {
     "lab:1": {
       "kind": "lab",
@@ -195,6 +195,19 @@
       "last_pushed_at": "2026-02-06T00:06:30.822Z",
       "language": "python",
       "lines": 58
+    },
+    "lab:16": {
+      "kind": "lab",
+      "id": "16",
+      "title": "Feature Deconfounder for Biased Image Data",
+      "difficulty": "hard",
+      "category": "Feature Deconfounding",
+      "url": "https://www.deep-ml.com/labs/16",
+      "path": "labs/0016-feature-deconfounder-for-biased-image-data",
+      "first_solved_at": "2026-02-08T20:18:43.378Z",
+      "last_pushed_at": "2026-02-08T20:18:43.378Z",
+      "language": "python",
+      "lines": 70
     }
   }
 }

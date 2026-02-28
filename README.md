@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**16** solved · 1 problems · 15 labs · 0 math
+**49** solved · 34 problems · 15 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,7 +12,40 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Apply Zero Padding to an Image](https://www.deep-ml.com/problems/239) | easy | 2026-02-28 | [solution](problems/0239-apply-zero-padding-to-an-image) |
+| [Bhattacharyya Distance Between Two Distributions](https://www.deep-ml.com/problems/120) | easy | 2026-02-28 | [solution](problems/0120-bhattacharyya-distance-between-two-distributions) |
+| [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-02-28 | [solution](problems/0010-calculate-covariance-matrix) |
+| [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2026-02-28 | [solution](problems/0070-calculate-image-brightness) |
+| [Calculate P50/P95/P99 Latency Percentiles](https://www.deep-ml.com/problems/293) | easy | 2026-02-28 | [solution](problems/0293-calculate-p50-p95-p99-latency-percentiles) |
+| [Calculate the Phi Coefficient](https://www.deep-ml.com/problems/95) | easy | 2026-02-28 | [solution](problems/0095-calculate-the-phi-coefficient) |
+| [Compute Arithmetic Intensity and Classify Bottleneck](https://www.deep-ml.com/problems/414) | easy | 2026-02-28 | [solution](problems/0414-compute-arithmetic-intensity-and-classify-bottleneck) |
+| [Convert RGB Image to Grayscale](https://www.deep-ml.com/problems/237) | easy | 2026-02-28 | [solution](problems/0237-convert-rgb-image-to-grayscale) |
+| [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-02-28 | [solution](problems/0116-derivative-of-a-polynomial) |
+| [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-02-28 | [solution](problems/0078-descriptive-statistics-calculator) |
+| [Flip an Image Horizontally or Vertically](https://www.deep-ml.com/problems/238) | easy | 2026-02-28 | [solution](problems/0238-flip-an-image-horizontally-or-vertically) |
+| [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2026-02-28 | [solution](problems/0082-grayscale-image-contrast-calculator) |
+| [Label Encoding for Ordinal Variables](https://www.deep-ml.com/problems/356) | easy | 2026-02-28 | [solution](problems/0356-label-encoding-for-ordinal-variables) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-02-04 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-02-28 | [solution](problems/0112-min-max-scaling-of-feature-values) |
+| [Bayesian Inference for Beta-Binomial Model](https://www.deep-ml.com/problems/213) | medium | 2026-02-28 | [solution](problems/0213-bayesian-inference-for-beta-binomial-model) |
+| [Bilinear Image Resizing](https://www.deep-ml.com/problems/240) | medium | 2026-02-28 | [solution](problems/0240-bilinear-image-resizing) |
+| [Calculate Statistical Power for Experiment Design](https://www.deep-ml.com/problems/296) | medium | 2026-02-28 | [solution](problems/0296-calculate-statistical-power-for-experiment-design) |
+| [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-02-28 | [solution](problems/0214-chain-rule-for-composite-functions) |
+| [Confidence Interval for Population Mean](https://www.deep-ml.com/problems/212) | medium | 2026-02-28 | [solution](problems/0212-confidence-interval-for-population-mean) |
+| [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-02-28 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
+| [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-02-28 | [solution](problems/0219-derivative-of-softmax) |
+| [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-02-28 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
+| [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-02-28 | [solution](problems/0354-handle-missing-data-with-imputation) |
+| [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-02-28 | [solution](problems/0202-jacobian-matrix-calculation) |
+| [Newton's Method for Optimization](https://www.deep-ml.com/problems/221) | medium | 2026-02-28 | [solution](problems/0221-newton-s-method-for-optimization) |
+| [Optical Flow EPE with Masks (OmniWorld-style metric)](https://www.deep-ml.com/problems/185) | medium | 2026-02-28 | [solution](problems/0185-optical-flow-epe-with-masks-omniworld-style-metric) |
+| [Outlier Detection and Removal Using IQR Method](https://www.deep-ml.com/problems/355) | medium | 2026-02-28 | [solution](problems/0355-outlier-detection-and-removal-using-iqr-method) |
+| [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-02-28 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
+| [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-02-28 | [solution](problems/0312-quotient-rule-for-derivatives) |
+| [Sobel Edge Detection](https://www.deep-ml.com/problems/241) | medium | 2026-02-28 | [solution](problems/0241-sobel-edge-detection) |
+| [Non-Maximum Suppression for Object Detection](https://www.deep-ml.com/problems/242) | hard | 2026-02-28 | [solution](problems/0242-non-maximum-suppression-for-object-detection) |
+| [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2026-02-28 | [solution](problems/0191-pca-color-augmentation) |
+| [Two-Sample T-Test Implementation](https://www.deep-ml.com/problems/211) | hard | 2026-02-28 | [solution](problems/0211-two-sample-t-test-implementation) |
 
 ## Labs
 

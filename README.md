@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**75** solved · 60 problems · 15 labs · 0 math
+**76** solved · 61 problems · 15 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -68,6 +68,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-02-28 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [Simulate Markov Chain Transitions](https://www.deep-ml.com/problems/132) | medium | 2026-03-01 | [solution](problems/0132-simulate-markov-chain-transitions) |
 | [Sobel Edge Detection](https://www.deep-ml.com/problems/241) | medium | 2026-02-28 | [solution](problems/0241-sobel-edge-detection) |
+| [Warmup + Cosine Decay Schedule](https://www.deep-ml.com/problems/196) | medium | 2026-03-02 | [solution](problems/0196-warmup-cosine-decay-schedule) |
 | [Non-Maximum Suppression for Object Detection](https://www.deep-ml.com/problems/242) | hard | 2026-02-28 | [solution](problems/0242-non-maximum-suppression-for-object-detection) |
 | [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2026-02-28 | [solution](problems/0191-pca-color-augmentation) |
 | [Two-Sample T-Test Implementation](https://www.deep-ml.com/problems/211) | hard | 2026-02-28 | [solution](problems/0211-two-sample-t-test-implementation) |

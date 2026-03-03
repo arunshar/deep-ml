@@ -2,7 +2,9 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**76** solved · 61 problems · 15 labs · 0 math
+**Completed:** Calculus (9/9)
+
+**84** solved · 67 problems · 17 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-02-28 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2026-02-28 | [solution](problems/0070-calculate-image-brightness) |
 | [Calculate P50/P95/P99 Latency Percentiles](https://www.deep-ml.com/problems/293) | easy | 2026-02-28 | [solution](problems/0293-calculate-p50-p95-p99-latency-percentiles) |
+| [Calculate Portfolio Variance](https://www.deep-ml.com/problems/183) | easy | 2026-03-03 | [solution](problems/0183-calculate-portfolio-variance) |
 | [Calculate the Phi Coefficient](https://www.deep-ml.com/problems/95) | easy | 2026-02-28 | [solution](problems/0095-calculate-the-phi-coefficient) |
 | [Compute Arithmetic Intensity and Classify Bottleneck](https://www.deep-ml.com/problems/414) | easy | 2026-02-28 | [solution](problems/0414-compute-arithmetic-intensity-and-classify-bottleneck) |
 | [Compute Posterior Probability using Bayes' Theorem](https://www.deep-ml.com/problems/336) | easy | 2026-03-01 | [solution](problems/0336-compute-posterior-probability-using-bayes-theorem) |
@@ -52,12 +55,17 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Confidence Interval for Population Mean](https://www.deep-ml.com/problems/212) | medium | 2026-02-28 | [solution](problems/0212-confidence-interval-for-population-mean) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-02-28 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-02-28 | [solution](problems/0219-derivative-of-softmax) |
+| [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-03-03 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
+| [Gradient Clipping by Global Norm](https://www.deep-ml.com/problems/197) | medium | 2026-03-03 | [solution](problems/0197-gradient-clipping-by-global-norm) |
 | [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-02-28 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-02-28 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Hypergeometric Distribution PMF](https://www.deep-ml.com/problems/245) | medium | 2026-03-01 | [solution](problems/0245-hypergeometric-distribution-pmf) |
 | [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2026-03-01 | [solution](problems/0169-implement-adamw-optimizer-step) |
+| [Implement RMSProp Optimizer](https://www.deep-ml.com/problems/200) | medium | 2026-03-03 | [solution](problems/0200-implement-rmsprop-optimizer) |
+| [Implement Tick Bars Sampling](https://www.deep-ml.com/problems/299) | medium | 2026-03-03 | [solution](problems/0299-implement-tick-bars-sampling) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-02-28 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-03-01 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
+| [Minimax Algorithm for Tic-Tac-Toe](https://www.deep-ml.com/problems/171) | medium | 2026-03-03 | [solution](problems/0171-minimax-algorithm-for-tic-tac-toe) |
 | [Muon Optimizer Step with Matrix Preconditioning](https://www.deep-ml.com/problems/170) | medium | 2026-03-01 | [solution](problems/0170-muon-optimizer-step-with-matrix-preconditioning) |
 | [Negative Binomial Distribution Probability](https://www.deep-ml.com/problems/247) | medium | 2026-03-01 | [solution](problems/0247-negative-binomial-distribution-probability) |
 | [Newton's Method for Optimization](https://www.deep-ml.com/problems/221) | medium | 2026-02-28 | [solution](problems/0221-newton-s-method-for-optimization) |
@@ -79,9 +87,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-02-05 | [solution](labs/0009-design-your-own-activation-function) |
+| [Design Your Own Normalization Layer](https://www.deep-ml.com/labs/24) | easy | 2026-03-03 | [solution](labs/0024-design-your-own-normalization-layer) |
 | [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/13) | easy | 2026-02-03 | [solution](labs/0013-pytorch-build-a-complete-training-loop) |
 | [Data Preprocessing: Handling Missing Values](https://www.deep-ml.com/labs/11) | medium | 2026-02-05 | [solution](labs/0011-data-preprocessing-handling-missing-values) |
 | [Design Your Own Attention Mechanism](https://www.deep-ml.com/labs/10) | medium | 2026-02-05 | [solution](labs/0010-design-your-own-attention-mechanism) |
+| [Design Your Own MoE Router](https://www.deep-ml.com/labs/25) | medium | 2026-03-03 | [solution](labs/0025-design-your-own-moe-router) |
 | [Design Your Own Optimizer (NumPy)](https://www.deep-ml.com/labs/8) | medium | 2026-02-04 | [solution](labs/0008-design-your-own-optimizer-numpy) |
 | [MNIST: Design Your Own Pytorch Optimizer](https://www.deep-ml.com/labs/3) | medium | 2026-01-25 | [solution](labs/0003-mnist-design-your-own-pytorch-optimizer) |
 | [MNIST: Design-Your-Own tiny Pytorch Model](https://www.deep-ml.com/labs/2) | medium | 2026-01-25 | [solution](labs/0002-mnist-design-your-own-tiny-pytorch-model) |

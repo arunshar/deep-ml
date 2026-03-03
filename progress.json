@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T19:43:45.808Z",
+  "generated_at": "2026-11-09T19:43:47.902Z",
   "items": {
     "lab:1": {
       "kind": "lab",
@@ -988,6 +988,110 @@
       "last_pushed_at": "2026-03-02T20:56:50.526Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:197": {
+      "kind": "problem",
+      "id": "197",
+      "title": "Gradient Clipping by Global Norm",
+      "difficulty": "medium",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/197",
+      "path": "problems/0197-gradient-clipping-by-global-norm",
+      "first_solved_at": "2026-03-03T08:17:17.411Z",
+      "last_pushed_at": "2026-03-03T08:17:17.411Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:183": {
+      "kind": "problem",
+      "id": "183",
+      "title": "Calculate Portfolio Variance",
+      "difficulty": "easy",
+      "category": "Financial Engineering",
+      "url": "https://www.deep-ml.com/problems/183",
+      "path": "problems/0183-calculate-portfolio-variance",
+      "first_solved_at": "2026-03-03T08:19:52.098Z",
+      "last_pushed_at": "2026-03-03T08:19:52.098Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:299": {
+      "kind": "problem",
+      "id": "299",
+      "title": "Implement Tick Bars Sampling",
+      "difficulty": "medium",
+      "category": "Financial Engineering",
+      "url": "https://www.deep-ml.com/problems/299",
+      "path": "problems/0299-implement-tick-bars-sampling",
+      "first_solved_at": "2026-03-03T08:26:28.530Z",
+      "last_pushed_at": "2026-03-03T08:26:28.530Z",
+      "language": "python",
+      "lines": 38
+    },
+    "problem:171": {
+      "kind": "problem",
+      "id": "171",
+      "title": "Minimax Algorithm for Tic-Tac-Toe",
+      "difficulty": "medium",
+      "category": "Game Theory",
+      "url": "https://www.deep-ml.com/problems/171",
+      "path": "problems/0171-minimax-algorithm-for-tic-tac-toe",
+      "first_solved_at": "2026-03-03T08:32:40.143Z",
+      "last_pushed_at": "2026-03-03T08:32:40.143Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:200": {
+      "kind": "problem",
+      "id": "200",
+      "title": "Implement RMSProp Optimizer",
+      "difficulty": "medium",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/200",
+      "path": "problems/0200-implement-rmsprop-optimizer",
+      "first_solved_at": "2026-03-03T08:36:12.608Z",
+      "last_pushed_at": "2026-03-03T08:36:12.608Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:127": {
+      "kind": "problem",
+      "id": "127",
+      "title": "Find Captain Redbeard's Hidden Treasure",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/127",
+      "path": "problems/0127-find-captain-redbeard-s-hidden-treasure",
+      "first_solved_at": "2026-03-03T08:41:54.680Z",
+      "last_pushed_at": "2026-03-03T08:41:54.680Z",
+      "language": "python",
+      "lines": 5
+    },
+    "lab:25": {
+      "kind": "lab",
+      "id": "25",
+      "title": "Design Your Own MoE Router",
+      "difficulty": "medium",
+      "category": "Mixture of Experts",
+      "url": "https://www.deep-ml.com/labs/25",
+      "path": "labs/0025-design-your-own-moe-router",
+      "first_solved_at": "2026-03-03T08:47:54.430Z",
+      "last_pushed_at": "2026-03-03T08:47:54.430Z",
+      "language": "python",
+      "lines": 16
+    },
+    "lab:24": {
+      "kind": "lab",
+      "id": "24",
+      "title": "Design Your Own Normalization Layer",
+      "difficulty": "easy",
+      "category": "Normalization",
+      "url": "https://www.deep-ml.com/labs/24",
+      "path": "labs/0024-design-your-own-normalization-layer",
+      "first_solved_at": "2026-03-03T08:49:53.545Z",
+      "last_pushed_at": "2026-03-03T08:49:53.545Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }

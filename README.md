@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**84** solved · 67 problems · 17 labs · 0 math
+**91** solved · 73 problems · 18 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Conditional Probability from Data](https://www.deep-ml.com/problems/168) | easy | 2026-03-01 | [solution](problems/0168-calculate-conditional-probability-from-data) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-02-28 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2026-02-28 | [solution](problems/0070-calculate-image-brightness) |
+| [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-03-04 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate P50/P95/P99 Latency Percentiles](https://www.deep-ml.com/problems/293) | easy | 2026-02-28 | [solution](problems/0293-calculate-p50-p95-p99-latency-percentiles) |
 | [Calculate Portfolio Variance](https://www.deep-ml.com/problems/183) | easy | 2026-03-03 | [solution](problems/0183-calculate-portfolio-variance) |
 | [Calculate the Phi Coefficient](https://www.deep-ml.com/problems/95) | easy | 2026-02-28 | [solution](problems/0095-calculate-the-phi-coefficient) |
@@ -38,12 +39,16 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-02-04 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-02-28 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-03-01 | [solution](problems/0081-poisson-distribution-probability-calculator) |
+| [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-03-04 | [solution](problems/0003-reshape-matrix) |
 | [Sampling Distribution of the Mean](https://www.deep-ml.com/problems/181) | easy | 2026-03-01 | [solution](problems/0181-sampling-distribution-of-the-mean) |
+| [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-03-04 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
+| [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-03-04 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Bayesian Inference for Beta-Binomial Model](https://www.deep-ml.com/problems/213) | medium | 2026-02-28 | [solution](problems/0213-bayesian-inference-for-beta-binomial-model) |
 | [Beta Distribution PDF and Statistics](https://www.deep-ml.com/problems/339) | medium | 2026-03-01 | [solution](problems/0339-beta-distribution-pdf-and-statistics) |
 | [Bilinear Image Resizing](https://www.deep-ml.com/problems/240) | medium | 2026-02-28 | [solution](problems/0240-bilinear-image-resizing) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-03-01 | [solution](problems/0079-binomial-distribution-probability) |
 | [Birthday Problem Probability](https://www.deep-ml.com/problems/246) | medium | 2026-03-01 | [solution](problems/0246-birthday-problem-probability) |
+| [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-03-04 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate KL Divergence Between Two Multivariate Gaussian Distributions](https://www.deep-ml.com/problems/136) | medium | 2026-03-01 | [solution](problems/0136-calculate-kl-divergence-between-two-multivariate-gaussian-distributions) |
 | [Calculate Statistical Power for Experiment Design](https://www.deep-ml.com/problems/296) | medium | 2026-02-28 | [solution](problems/0296-calculate-statistical-power-for-experiment-design) |
 | [Central Limit Theorem Simulation](https://www.deep-ml.com/problems/182) | medium | 2026-03-01 | [solution](problems/0182-central-limit-theorem-simulation) |
@@ -64,6 +69,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement RMSProp Optimizer](https://www.deep-ml.com/problems/200) | medium | 2026-03-03 | [solution](problems/0200-implement-rmsprop-optimizer) |
 | [Implement Tick Bars Sampling](https://www.deep-ml.com/problems/299) | medium | 2026-03-03 | [solution](problems/0299-implement-tick-bars-sampling) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-02-28 | [solution](problems/0202-jacobian-matrix-calculation) |
+| [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-03-04 | [solution](problems/0007-matrix-transformation) |
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-03-01 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
 | [Minimax Algorithm for Tic-Tac-Toe](https://www.deep-ml.com/problems/171) | medium | 2026-03-03 | [solution](problems/0171-minimax-algorithm-for-tic-tac-toe) |
 | [Muon Optimizer Step with Matrix Preconditioning](https://www.deep-ml.com/problems/170) | medium | 2026-03-01 | [solution](problems/0170-muon-optimizer-step-with-matrix-preconditioning) |
@@ -88,6 +94,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-02-05 | [solution](labs/0009-design-your-own-activation-function) |
 | [Design Your Own Normalization Layer](https://www.deep-ml.com/labs/24) | easy | 2026-03-03 | [solution](labs/0024-design-your-own-normalization-layer) |
+| [Dimensionality Reduction with Sklearn](https://www.deep-ml.com/labs/15) | easy | 2026-03-04 | [solution](labs/0015-dimensionality-reduction-with-sklearn) |
 | [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/13) | easy | 2026-02-03 | [solution](labs/0013-pytorch-build-a-complete-training-loop) |
 | [Data Preprocessing: Handling Missing Values](https://www.deep-ml.com/labs/11) | medium | 2026-02-05 | [solution](labs/0011-data-preprocessing-handling-missing-values) |
 | [Design Your Own Attention Mechanism](https://www.deep-ml.com/labs/10) | medium | 2026-02-05 | [solution](labs/0010-design-your-own-attention-mechanism) |

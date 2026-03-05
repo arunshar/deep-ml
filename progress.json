@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T19:43:50.054Z",
+  "generated_at": "2026-11-09T19:43:52.108Z",
   "items": {
     "lab:1": {
       "kind": "lab",
@@ -1183,6 +1183,71 @@
       "last_pushed_at": "2026-03-04T23:51:18.039Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-03-05T00:09:56.823Z",
+      "last_pushed_at": "2026-03-05T00:09:56.823Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-03-05T00:11:02.033Z",
+      "last_pushed_at": "2026-03-05T00:11:02.033Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:11": {
+      "kind": "problem",
+      "id": "11",
+      "title": "Solve Linear Equations using Jacobi Method",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/11",
+      "path": "problems/0011-solve-linear-equations-using-jacobi-method",
+      "first_solved_at": "2026-03-05T00:26:41.021Z",
+      "last_pushed_at": "2026-03-05T00:26:41.021Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:12": {
+      "kind": "problem",
+      "id": "12",
+      "title": "Singular Value Decomposition (SVD) of 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/12",
+      "path": "problems/0012-singular-value-decomposition-svd-of-2x2-matrix",
+      "first_solved_at": "2026-03-05T00:52:43.577Z",
+      "last_pushed_at": "2026-03-05T00:52:43.577Z",
+      "language": "python",
+      "lines": 36
+    },
+    "problem:13": {
+      "kind": "problem",
+      "id": "13",
+      "title": "Determinant of a 4x4 Matrix using Laplace's Expansion (hard)",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/13",
+      "path": "problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard",
+      "first_solved_at": "2026-03-05T23:29:43.564Z",
+      "last_pushed_at": "2026-03-05T23:29:43.564Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }

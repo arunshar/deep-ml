@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**91** solved · 73 problems · 18 labs · 0 math
+**96** solved · 78 problems · 18 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Apply Zero Padding to an Image](https://www.deep-ml.com/problems/239) | easy | 2026-02-28 | [solution](problems/0239-apply-zero-padding-to-an-image) |
 | [Bhattacharyya Distance Between Two Distributions](https://www.deep-ml.com/problems/120) | easy | 2026-02-28 | [solution](problems/0120-bhattacharyya-distance-between-two-distributions) |
+| [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-03-05 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Conditional Probability from Data](https://www.deep-ml.com/problems/168) | easy | 2026-03-01 | [solution](problems/0168-calculate-conditional-probability-from-data) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-02-28 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2026-02-28 | [solution](problems/0070-calculate-image-brightness) |
@@ -69,6 +70,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement RMSProp Optimizer](https://www.deep-ml.com/problems/200) | medium | 2026-03-03 | [solution](problems/0200-implement-rmsprop-optimizer) |
 | [Implement Tick Bars Sampling](https://www.deep-ml.com/problems/299) | medium | 2026-03-03 | [solution](problems/0299-implement-tick-bars-sampling) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-02-28 | [solution](problems/0202-jacobian-matrix-calculation) |
+| [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-03-05 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-03-04 | [solution](problems/0007-matrix-transformation) |
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-03-01 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
 | [Minimax Algorithm for Tic-Tac-Toe](https://www.deep-ml.com/problems/171) | medium | 2026-03-03 | [solution](problems/0171-minimax-algorithm-for-tic-tac-toe) |
@@ -82,9 +84,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-02-28 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [Simulate Markov Chain Transitions](https://www.deep-ml.com/problems/132) | medium | 2026-03-01 | [solution](problems/0132-simulate-markov-chain-transitions) |
 | [Sobel Edge Detection](https://www.deep-ml.com/problems/241) | medium | 2026-02-28 | [solution](problems/0241-sobel-edge-detection) |
+| [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-03-05 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Warmup + Cosine Decay Schedule](https://www.deep-ml.com/problems/196) | medium | 2026-03-02 | [solution](problems/0196-warmup-cosine-decay-schedule) |
+| [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-03-05 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Non-Maximum Suppression for Object Detection](https://www.deep-ml.com/problems/242) | hard | 2026-02-28 | [solution](problems/0242-non-maximum-suppression-for-object-detection) |
 | [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2026-02-28 | [solution](problems/0191-pca-color-augmentation) |
+| [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-03-05 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [Two-Sample T-Test Implementation](https://www.deep-ml.com/problems/211) | hard | 2026-02-28 | [solution](problems/0211-two-sample-t-test-implementation) |
 | [Variational Inference: ELBO Computation](https://www.deep-ml.com/problems/206) | hard | 2026-03-01 | [solution](problems/0206-variational-inference-elbo-computation) |
 

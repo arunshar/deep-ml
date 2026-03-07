@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**96** solved · 78 problems · 18 labs · 0 math
+**104** solved · 84 problems · 20 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -33,10 +33,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2026-03-01 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-03-01 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
 | [Exponential Distribution PDF and CDF](https://www.deep-ml.com/problems/340) | easy | 2026-03-01 | [solution](problems/0340-exponential-distribution-pdf-and-cdf) |
+| [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-03-07 | [solution](problems/0016-feature-scaling-implementation) |
 | [Flip an Image Horizontally or Vertically](https://www.deep-ml.com/problems/238) | easy | 2026-02-28 | [solution](problems/0238-flip-an-image-horizontally-or-vertically) |
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2026-02-28 | [solution](problems/0082-grayscale-image-contrast-calculator) |
 | [Implement Weight Decay as L2 Regularization](https://www.deep-ml.com/problems/198) | easy | 2026-03-01 | [solution](problems/0198-implement-weight-decay-as-l2-regularization) |
 | [Label Encoding for Ordinal Variables](https://www.deep-ml.com/problems/356) | easy | 2026-02-28 | [solution](problems/0356-label-encoding-for-ordinal-variables) |
+| [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-03-07 | [solution](problems/0015-linear-regression-using-gradient-descent) |
+| [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-03-07 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-02-04 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-02-28 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-03-01 | [solution](problems/0081-poisson-distribution-probability-calculator) |
@@ -67,9 +70,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-02-28 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Hypergeometric Distribution PMF](https://www.deep-ml.com/problems/245) | medium | 2026-03-01 | [solution](problems/0245-hypergeometric-distribution-pmf) |
 | [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2026-03-01 | [solution](problems/0169-implement-adamw-optimizer-step) |
+| [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-03-07 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement RMSProp Optimizer](https://www.deep-ml.com/problems/200) | medium | 2026-03-03 | [solution](problems/0200-implement-rmsprop-optimizer) |
 | [Implement Tick Bars Sampling](https://www.deep-ml.com/problems/299) | medium | 2026-03-03 | [solution](problems/0299-implement-tick-bars-sampling) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-02-28 | [solution](problems/0202-jacobian-matrix-calculation) |
+| [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-03-07 | [solution](problems/0017-k-means-clustering) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-03-05 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-03-04 | [solution](problems/0007-matrix-transformation) |
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-03-01 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
@@ -81,6 +86,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Optical Flow EPE with Masks (OmniWorld-style metric)](https://www.deep-ml.com/problems/185) | medium | 2026-02-28 | [solution](problems/0185-optical-flow-epe-with-masks-omniworld-style-metric) |
 | [Outlier Detection and Removal Using IQR Method](https://www.deep-ml.com/problems/355) | medium | 2026-02-28 | [solution](problems/0355-outlier-detection-and-removal-using-iqr-method) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-02-28 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
+| [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-03-07 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-02-28 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [Simulate Markov Chain Transitions](https://www.deep-ml.com/problems/132) | medium | 2026-03-01 | [solution](problems/0132-simulate-markov-chain-transitions) |
 | [Sobel Edge Detection](https://www.deep-ml.com/problems/241) | medium | 2026-02-28 | [solution](problems/0241-sobel-edge-detection) |
@@ -101,6 +107,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Design Your Own Normalization Layer](https://www.deep-ml.com/labs/24) | easy | 2026-03-03 | [solution](labs/0024-design-your-own-normalization-layer) |
 | [Dimensionality Reduction with Sklearn](https://www.deep-ml.com/labs/15) | easy | 2026-03-04 | [solution](labs/0015-dimensionality-reduction-with-sklearn) |
 | [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/13) | easy | 2026-02-03 | [solution](labs/0013-pytorch-build-a-complete-training-loop) |
+| [Train a Binary Classifier](https://www.deep-ml.com/labs/23) | easy | 2026-03-07 | [solution](labs/0023-train-a-binary-classifier) |
+| [Train a Linear Regression Model](https://www.deep-ml.com/labs/18) | easy | 2026-03-07 | [solution](labs/0018-train-a-linear-regression-model) |
 | [Data Preprocessing: Handling Missing Values](https://www.deep-ml.com/labs/11) | medium | 2026-02-05 | [solution](labs/0011-data-preprocessing-handling-missing-values) |
 | [Design Your Own Attention Mechanism](https://www.deep-ml.com/labs/10) | medium | 2026-02-05 | [solution](labs/0010-design-your-own-attention-mechanism) |
 | [Design Your Own MoE Router](https://www.deep-ml.com/labs/25) | medium | 2026-03-03 | [solution](labs/0025-design-your-own-moe-router) |

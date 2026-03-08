@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T19:43:53.964Z",
+  "generated_at": "2026-11-09T19:43:56.246Z",
   "items": {
     "lab:1": {
       "kind": "lab",
@@ -1352,6 +1352,32 @@
       "last_pushed_at": "2026-03-07T23:56:35.017Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:449": {
+      "kind": "problem",
+      "id": "449",
+      "title": "Autoscaling Replica Simulator with SLA Tracking",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/449",
+      "path": "problems/0449-autoscaling-replica-simulator-with-sla-tracking",
+      "first_solved_at": "2026-03-08T00:50:15.513Z",
+      "last_pushed_at": "2026-03-08T00:50:15.513Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:20": {
+      "kind": "problem",
+      "id": "20",
+      "title": "Decision Tree Learning",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/20",
+      "path": "problems/0020-decision-tree-learning",
+      "first_solved_at": "2026-03-08T09:38:22.616Z",
+      "last_pushed_at": "2026-03-08T09:38:22.616Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
